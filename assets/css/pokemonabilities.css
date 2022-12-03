@@ -1,0 +1,39 @@
+header {
+    background-color: #77c850;
+    margin: 0.5rem;
+}
+
+.pokename {
+    color: white;
+    margin: 0;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 0.5rem;
+}
+
+.headerlist {
+    list-style: none;
+    background-color: #77c850;
+    display: flex;
+    flex-direction: row;
+}
+
+.headerlist .type {
+    color: white;
+    margin: 0;
+    padding: 0 0.6rem;
+}
+
+
+.pokenumber {
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    margin: 0;
+    padding: 0 0.6rem;
+}
+
+.image {
+    text-align: center;
+}
